@@ -14,7 +14,7 @@
     $brand = $product->brand;
     $isKit = (bool) preg_match('/^(kit|pack|combo)\b/i', $product->title);
     $freeAbove = \App\Models\ShippingMethod::where('is_active', true)->whereNotNull('free_above')->min('free_above');
-    $pickup = \App\Models\ShippingMethod::where('is_active', true)->where('price', 0)->whereNull('free_above')->where('name', 'like', '%retir%')->exists();
+    $pickup = \App\Models\ShippingMethod::where('is_active', true)->where('is_pickup', true)->exists();
 @endphp
 
 @section('title', ($product->seo_title ?: $product->title).' | '.setting('store.name'))
@@ -223,7 +223,7 @@
             <div class="section-title"><h2>Você também pode gostar</h2></div>
             <div class="scroller-wrap" x-data="scroller">
                 <button type="button" class="scroller-arrow scroller-arrow--prev" @click="scroll(-1)" aria-label="Anteriores"><x-ui-icon name="chevron-left" class="w-4 h-4" /></button>
-                <div class="scroller scroller--products max-md:-mr-5 max-md:pr-5" x-ref="track">
+                <div class="scroller scroller--products" x-ref="track">
                     @foreach ($related as $p)<x-product-card :p="$p" />@endforeach
                 </div>
                 <button type="button" class="scroller-arrow scroller-arrow--next" @click="scroll(1)" aria-label="Próximos"><x-ui-icon name="chevron-right" class="w-4 h-4" /></button>

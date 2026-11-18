@@ -155,7 +155,7 @@ class ForFitStorefrontSeeder extends Seeder
         ]);
         ShippingMethod::updateOrCreate(['name' => 'Retirar na academia ForFit'], [
             'description' => 'Grátis — retire na unidade após o aviso de pedido separado', 'price' => 0, 'free_above' => null,
-            'min_days' => 0, 'max_days' => 1, 'position' => 2, 'is_active' => true,
+            'min_days' => null, 'max_days' => null, 'is_pickup' => true, 'position' => 2, 'is_active' => true,
         ]);
     }
 

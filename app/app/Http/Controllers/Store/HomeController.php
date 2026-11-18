@@ -57,7 +57,7 @@ class HomeController extends Controller
         $free = ShippingMethod::where('is_active', true)->whereNotNull('free_above')->min('free_above');
         $pix = pix_percent();
         $parcelas = (int) setting('nixfy.interest_free_installments', 1);
-        $pickup = ShippingMethod::where('is_active', true)->where('price', 0)->whereNull('free_above')->where('name', 'like', '%retir%')->exists();
+        $pickup = ShippingMethod::where('is_active', true)->where('is_pickup', true)->exists();
 
         return array_values(array_filter([
             $free ? ['icon' => 'truck', 'title' => 'Frete grátis', 'text' => 'acima de '.money((int) $free)] : null,

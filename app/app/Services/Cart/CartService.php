@@ -131,8 +131,27 @@ class CartService
         $subtotal = (int) $items->sum('line_total');
         $compare = (int) $items->sum(fn ($i) => ($i['compare_at_price'] ?: $i['price']) * $i['quantity']);
 
+        // Frete pré-selecionado (o mesmo que o checkout vai marcar): valor, previsão e quanto falta para ficar grátis
+        $methods = \App\Models\ShippingMethod::where('is_active', true)->orderBy('position')->get();
+        $default = \App\Models\ShippingMethod::defaultFor($methods, $subtotal);
+        $shippingPrice = $default ? $default->priceFor($subtotal) : 0;
+        $missing = \App\Models\ShippingMethod::missingForFree($methods, $subtotal);
+        $freeAbove = $methods->reject(fn ($m) => $m->is_pickup)->whereNotNull('free_above')->min('free_above');
+
         return [
             'token' => $cart->token,
+            'shipping' => $default ? [
+                'name' => $default->name,
+                'price' => $shippingPrice,
+                'price_formatted' => $shippingPrice > 0 ? money($shippingPrice) : 'Grátis',
+                'estimate' => $default->estimate()['label'] ?? null,
+                'missing' => $missing,
+                'missing_formatted' => $missing ? money($missing) : null,
+                'progress' => $freeAbove ? min(100, (int) round($subtotal * 100 / $freeAbove)) : 100,
+                'has_options' => $methods->count() > 1,
+            ] : null,
+            'total' => $subtotal + $shippingPrice,
+            'total_formatted' => money($subtotal + $shippingPrice),
             'count' => (int) $items->sum('quantity'),
             'subtotal' => $subtotal,
             'subtotal_formatted' => money($subtotal),

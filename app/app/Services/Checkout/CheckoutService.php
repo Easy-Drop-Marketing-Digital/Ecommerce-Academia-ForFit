@@ -47,7 +47,8 @@ class CheckoutService
         $method = in_array($input['payment_method'] ?? null, ['pix', 'credit_card'], true) ? $input['payment_method'] : null;
 
         $methods = ShippingMethod::where('is_active', true)->orderBy('position')->get();
-        $selected = $methods->firstWhere('id', (int) ($input['shipping_method_id'] ?? 0)) ?? $methods->first();
+        // sem escolha do cliente: pré-seleciona a entrega em casa mais barata (grátis quando houver); retirada nunca vem marcada
+        $selected = $methods->firstWhere('id', (int) ($input['shipping_method_id'] ?? 0)) ?? ShippingMethod::defaultFor($methods, $subtotal);
         $baseShipping = $selected ? $selected->priceFor($subtotal) : 0;
 
         $disc = $this->discounts->calculate($lines, [
@@ -70,7 +71,9 @@ class CheckoutService
                 'name' => $m->name,
                 'description' => $m->description,
                 'price' => $price,
-                'estimate' => $m->min_days && $m->max_days ? "{$m->min_days} a {$m->max_days} dias úteis" : null,
+                // previsão com datas ("Receba entre 25 de nov. e 2 de dez."), já contando o despacho
+                'estimate' => ($e = $m->estimate()) ? ucfirst($e['label']) : null,
+                'is_pickup' => (bool) $m->is_pickup,
             ];
         })->values();
 
@@ -100,6 +103,7 @@ class CheckoutService
             'shipping_options' => $shippingOptions->all(),
             'shipping_method_id' => $selected?->id,
             'shipping' => $shipping,
+            'missing_for_free_shipping' => $disc['free_shipping'] ? null : ShippingMethod::missingForFree($methods, $subtotal),
             'payment_method' => $method,
             'installments' => $installments,
             'installment_plan' => array_values($plan),

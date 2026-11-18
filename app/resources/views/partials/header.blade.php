@@ -47,7 +47,7 @@
                 </a>
             @endif
             <button type="button" class="header-action" @click="$store.cart.open = true" aria-label="Abrir carrinho">
-                <span class="relative inline-flex"><x-ui-icon name="cart" /><span class="cart-count" x-cloak x-show="$store.cart.data.count > 0" x-text="$store.cart.data.count"></span></span>
+                <span class="relative inline-flex mr-2"><x-ui-icon name="cart" /><span class="cart-count" x-cloak x-show="$store.cart.data.count > 0" x-text="$store.cart.data.count"></span></span>
                 <span class="header-action__text">Carrinho</span>
             </button>
         </div>

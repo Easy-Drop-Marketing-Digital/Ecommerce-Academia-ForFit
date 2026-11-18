@@ -47,6 +47,7 @@ class ShippingMethodResource extends Resource
             TextInput::make('min_days')->label('Prazo mínimo (dias úteis)')->numeric(),
             TextInput::make('max_days')->label('Prazo máximo (dias úteis)')->numeric(),
             Toggle::make('is_active')->label('Ativa no checkout')->default(true),
+            Toggle::make('is_pickup')->label('É retirada na loja/academia')->helperText('Nunca vem pré-selecionada e não mostra previsão de entrega.'),
         ]);
     }
 
