@@ -1,0 +1,25 @@
+<p>[[store.name]]<x-if key="store.legal_name"> — [[store.legal_name]]</x-if><x-if key="store.cnpj"> | CNPJ: [[store.cnpj]]</x-if></p>
+
+<h2>Fale conosco</h2>
+<p>Na [[store.name]], uma boa experiência vai muito além da escolha da peça. Nossa equipe está à disposição para ajudar com dúvidas sobre pedidos, pagamentos, entregas, trocas e devoluções.</p>
+
+<x-if key="store.whatsapp">
+<h2>Atendimento via WhatsApp</h2>
+<p><strong>[[store.whatsapp]]</strong></p>
+<p>Canal preferencial para atendimento rápido sobre pedidos, trocas, entregas e dúvidas gerais.</p>
+</x-if>
+
+<h2>Atendimento via e-mail</h2>
+<p><strong>[[store.email]]</strong></p>
+<p>Ideal para solicitações formais, dúvidas sobre políticas e envio de fotos e documentos relacionados a pedidos.</p>
+
+<h2>Horário de atendimento</h2>
+<p>[[store.hours]]</p>
+<p>Tempo de resposta: [[store.response_time]]</p>
+
+<h2>Acompanhe seu pedido</h2>
+<p>Consulte o status e o rastreio a qualquer momento na página <a href="/pages/rastrear-pedido">Rastrear Pedido</a>.</p>
+
+<h2>Endereço administrativo</h2>
+<x-if key="store.address"><p>[[store.address]]</p></x-if>
+<p><small>Este endereço é exclusivamente administrativo e não realiza atendimento presencial nem recebimento de devoluções sem agendamento prévio.</small></p>

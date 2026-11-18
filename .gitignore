@@ -1,0 +1,22 @@
+# Pacotes gerados para publicar (código e catálogo de ~560 MB): ficam só no computador
+/releases/
+
+# Arquivos locais
+/.claude/
+*.log
+*.out
+
+# Caches e arquivos temporários gerados pela loja
+/app/storage/framework/page-cache/
+/app/storage/framework/page-cache-old-*/
+/app/storage/framework/testing/
+/app/storage/app/catalogo-importacao/
+
+# pesquisa: páginas baixadas e dependências (regeráveis)
+pesquisa/cache/
+pesquisa/raw/
+pesquisa/node_modules/
+pesquisa/*.log
+pesquisa/catalogo-forfit.anterior.json
+forfit-marca/.render/
+.claude/

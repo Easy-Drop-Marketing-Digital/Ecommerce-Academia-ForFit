@@ -1,0 +1,1822 @@
+{
+ "whey": {
+  "growth": [
+   {
+    "cat": "/whey-protein/",
+    "name": "(TOP) Whey Protein Concentrado 1Kg",
+    "link": "https://www.gsuplementos.com.br/whey-protein-concentrado-1kg-growth-supplements-p985936",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/top-whey-protein-concentrado-1kg-growth-supplements-3.jpg",
+    "price": "R$179,90",
+    "de": "R$222,11"
+   },
+   {
+    "cat": "/whey-protein/",
+    "name": "Dose Whey Protein Concentrado 30g",
+    "link": "https://www.gsuplementos.com.br/dose-whey-protein-concentrado-30gr",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/dose-whey-protein-concentrado-30gr-growth-supplements-6.png",
+    "price": "R$5,90",
+    "de": "R$7,66"
+   },
+   {
+    "cat": "/whey-protein/",
+    "name": "(TOP) Whey Protein Isolado 1Kg",
+    "link": "https://www.gsuplementos.com.br/top-whey-protein-isolado-1kg-growth-supplements-p985937",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/top-whey-protein-isolado-1kg-growth-supplements-3.jpg",
+    "price": "R$339,90",
+    "de": "R$388,77"
+   },
+   {
+    "cat": "/whey-protein/",
+    "name": "Medium Whey Protein 1Kg",
+    "link": "https://www.gsuplementos.com.br/medium-whey-protein-1kg-growth-supplements-p986001",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/medium-whey-protein-1kg-growth-supplements.jpg",
+    "price": "R$129,90",
+    "de": "R$161,00"
+   },
+   {
+    "cat": "/whey-protein/",
+    "name": "Basic Whey Protein 1Kg",
+    "link": "https://www.gsuplementos.com.br/basic-whey-protein-1kg-natural",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/basic-whey-protein-1kg-growth-supplements.jpg",
+    "price": "R$66,40",
+    "de": "R$77,66"
+   },
+   {
+    "cat": "/whey-protein/",
+    "name": "Dose Whey Protein Isolado 30g",
+    "link": "https://www.gsuplementos.com.br/dose-whey-protein-isolado-30gr-growth-supplements",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/dose-whey-protein-isolado-30gr-growth-supplements.jpg",
+    "price": "R$10,90"
+   },
+   {
+    "cat": "/whey-protein/",
+    "name": "3W Whey Protein 1Kg",
+    "link": "https://www.gsuplementos.com.br/3-whey-protein-1kg-growth-supplements-p985944",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/3w-whey-protein-1kg-growth-supplements-2.jpg",
+    "price": "R$244,90",
+    "de": "R$277,66"
+   },
+   {
+    "cat": "/whey-protein/",
+    "name": "100% Whey Protein Concentrado",
+    "link": "https://www.gsuplementos.com.br/100-whey-protein-concentrado-chocolate-1",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/100-whey-protein-concentrado-chocolate-4074-4.png",
+    "price": "R$69,90",
+    "de": "R$99,88"
+   },
+   {
+    "cat": "/whey-protein/",
+    "name": "(TOP) Whey e Egg Sabor Natural 1Kg",
+    "link": "https://www.gsuplementos.com.br/top-whey-e-egg-sabor-natural-1kg-growth-supplements-p985811",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/top-whey-e-egg-sabor-natural-1kg-growth-supplements-1.jpg",
+    "price": "R$142,90"
+   },
+   {
+    "cat": "/whey-protein/",
+    "name": "Whey Protein Zero Lactose",
+    "link": "https://www.gsuplementos.com.br/whey-protein-zero-lactose",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/whey-protein-zero-lactose-natural-3471-1.jpg",
+    "price": "R$142,90"
+   }
+  ],
+  "max": [
+   {
+    "cat": "/2/16/",
+    "name": "Whey Blend 1,8Kg - Nova Fórmula",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/whey-blend-18kg---nova-formula/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/157676/whey-blend-max-titanium-1.8kg-baunilha-1.jpg?v=638794623862200000",
+    "price": 149,
+    "list": 231.44,
+    "avail": true,
+    "skus": [
+     "Baunilha",
+     "Chocolate",
+     "Morango",
+     "Vitamina de Frutas"
+    ],
+    "cats": [
+     "/Produtos/Proteínas/Blend de Proteinas/",
+     "/Produtos/Proteínas/",
+     "/Produtos/",
+     "/whey protein/",
+     "/Produtos/Proteínas/Whey protein/"
+    ],
+    "id": "106"
+   },
+   {
+    "cat": "/2/16/",
+    "name": "Whey Blend 900g Nova Fórmula",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/whey-blend-900g-nova-formula/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/157664/whey-blend-max-titanium-900g-morango-1.jpg?v=638351505226800000",
+    "price": 79,
+    "list": 121.99,
+    "avail": true,
+    "skus": [
+     "Morango",
+     "Baunilha",
+     "Vitamina de Frutas",
+     "Chocolate"
+    ],
+    "cats": [
+     "/Produtos/Proteínas/Blend de Proteinas/",
+     "/Produtos/Proteínas/",
+     "/Produtos/",
+     "/whey protein/",
+     "/Produtos/Proteínas/Blend de Proteinas/Refil 900g/"
+    ],
+    "id": "105"
+   },
+   {
+    "cat": "/2/16/",
+    "name": "Top Whey 3W + Sabor  900G",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/top-whey-3w-mais-sabor-900g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/169792/Top-Whey-3W-Mais-Sabor-Brigadeiro---Frente.png?v=639288719281470000",
+    "price": 189,
+    "list": 273.55,
+    "avail": true,
+    "skus": [
+     "Brigadeiro",
+     "Cookies & Cream",
+     "Chocolate branco com morango",
+     "Leite",
+     "Iogurte grego morango",
+     "Sorvete de Frutas"
+    ],
+    "cats": [
+     "/Produtos/Proteínas/3w/",
+     "/Produtos/Proteínas/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Definição Muscular/",
+     "/Por Objetivo/Máxima Performance/",
+     "/Por Objetivo/Massa Muscular/",
+     "/Por Objetivo/Recuperação muscular/",
+     "/Produtos/Proteínas/3w/Pote 900g/",
+     "/Produtos/Proteínas/Whey protein/"
+    ],
+    "id": "43"
+   },
+   {
+    "cat": "/2/16/",
+    "name": "Femini Whey 900G",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/femini-whey-900g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/157409/femini-whey-max-titanium-900g-baunilha-1.jpg?v=638344418032930000",
+    "price": 130,
+    "list": 147.25,
+    "avail": true,
+    "skus": [
+     "Baunilha",
+     "Chocolate",
+     "Morango"
+    ],
+    "cats": [
+     "/whey protein/",
+     "/Produtos/",
+     "/Produtos/Proteínas/",
+     "/Produtos/Proteínas/Concentrada/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Definição Muscular/",
+     "/Por Objetivo/Emagrecimento/",
+     "/Por Objetivo/Ganho de peso/",
+     "/Por Objetivo/Massa Muscular/",
+     "/Produtos/Proteínas/Concentrada/Pote 900g/"
+    ],
+    "id": "39"
+   },
+   {
+    "cat": "/2/16/",
+    "name": "Whey Drink 300ml",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/whey-drink-300ml/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/159281/MAX-Imagens-SITE-Wheydrink-Frutas.jpg?v=638914829938400000",
+    "price": 12.89,
+    "list": 12.89,
+    "avail": true,
+    "skus": [
+     "Frutas Amarelas",
+     "Morango com Limão"
+    ],
+    "cats": [
+     "/Produtos/Proteínas/Isolada/",
+     "/Produtos/Proteínas/",
+     "/Produtos/",
+     "/Lançamentos/"
+    ],
+    "id": "404"
+   },
+   {
+    "cat": "/2/16/",
+    "name": "Whey Pro 1kg — Whey Protein Concentrado Max Titanium — 15g de Proteína por Dose",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/whey-pro-1kg/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160242/Whey-Pro-Chocolate---Frente.png?v=639089390018070000",
+    "price": 109.9,
+    "list": 126.2,
+    "avail": true,
+    "skus": [
+     "Chocolate",
+     "Morango",
+     "Baunilha",
+     "Cookies & Cream"
+    ],
+    "cats": [
+     "/whey protein/",
+     "/Produtos/",
+     "/Produtos/Proteínas/",
+     "/Produtos/Proteínas/Concentrada/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Definição Muscular/",
+     "/Por Objetivo/Massa Muscular/",
+     "/Por Objetivo/Recuperação muscular/",
+     "/Produtos/Proteínas/Concentrada/Pote 900g/"
+    ],
+    "id": "52"
+   },
+   {
+    "cat": "/2/16/",
+    "name": "100% Whey Refil 900G",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/100-whey-refil-900g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160614/100--Whey-Refil---Baunilha---Frente.png?v=639088239412970000",
+    "price": 196.39,
+    "list": 196.39,
+    "avail": true,
+    "skus": [
+     "Baunilha",
+     "Cookies & Cream",
+     "Chocolate",
+     "Morango"
+    ],
+    "cats": [
+     "/Produtos/Proteínas/",
+     "/Produtos/",
+     "/Produtos/Proteínas/Concentrada/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Definição Muscular/",
+     "/Por Objetivo/Máxima Performance/",
+     "/Por Objetivo/Massa Muscular/",
+     "/Por Objetivo/Recuperação muscular/",
+     "/whey protein/",
+     "/Produtos/Proteínas/Concentrada/Refil 900g/"
+    ],
+    "id": "50"
+   },
+   {
+    "cat": "/2/16/",
+    "name": "100% Whey Protein Dr. Peanut Pote 900g",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/100-whey-dr-peanut/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160066/100--Whey-Dr.-Peanut---Avela---Frente.png?v=639089388944930000",
+    "price": 224.39,
+    "list": 224.39,
+    "avail": true,
+    "skus": [
+     "Avelã",
+     "Bueníssimo",
+     "Paçoca",
+     "Bombom italiano",
+     "Doce de Leite"
+    ],
+    "cats": [
+     "/Produtos/Proteínas/Concentrada/Pote 900g/",
+     "/Produtos/Proteínas/Concentrada/",
+     "/Produtos/Proteínas/",
+     "/Produtos/"
+    ],
+    "id": "218"
+   },
+   {
+    "cat": "/2/16/",
+    "name": "100% Whey Pote 900G",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/100-whey-pote-900g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/161958/100--Whey---Baunilha---Frente.png?v=639102192199930000",
+    "price": 210.39,
+    "list": 210.39,
+    "avail": true,
+    "skus": [
+     "Baunilha",
+     "Chocolate",
+     "Cookies & Cream",
+     "Morango",
+     "Chocolate Maltado",
+     "Pistache com Chocolate Branco",
+     "Leite"
+    ],
+    "cats": [
+     "/whey protein/",
+     "/Produtos/",
+     "/Produtos/Proteínas/",
+     "/Produtos/Proteínas/Concentrada/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Definição Muscular/",
+     "/Por Objetivo/Máxima Performance/",
+     "/Por Objetivo/Massa Muscular/",
+     "/Produtos/Proteínas/Concentrada/Pote 900g/"
+    ],
+    "id": "49"
+   },
+   {
+    "cat": "/2/16/",
+    "name": "Top Whey 3W + Performance 900G",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/top-whey-3w-mais-performance-900g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/159932/Top-Whey-3W-Mais-Performance-Baunilha---Frente.png?v=639089446974400000",
+    "price": 273.55,
+    "list": 273.55,
+    "avail": true,
+    "skus": [
+     "Baunilha",
+     "Chocolate",
+     "Fresh lemon",
+     "Morango",
+     "Vitamina de Frutas"
+    ],
+    "cats": [
+     "/Produtos/Proteínas/3w/",
+     "/Produtos/Proteínas/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Definição Muscular/",
+     "/Por Objetivo/Máxima Performance/",
+     "/Por Objetivo/Massa Muscular/",
+     "/whey protein/",
+     "/Produtos/Proteínas/3w/Pote 900g/"
+    ],
+    "id": "46"
+   }
+  ]
+ },
+ "creatina": {
+  "growth": [
+   {
+    "cat": "/creatina/",
+    "name": "Creatina Monohidratada 250g",
+    "link": "https://www.gsuplementos.com.br/creatina-monohidratada-250gr-growth-supplements-p985931",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/creatina-monohidratada-250g-growth-supplements.jpg",
+    "price": "R$49,90",
+    "de": "R$63,30"
+   },
+   {
+    "cat": "/creatina/",
+    "name": "Creatina Creapure® 250g",
+    "link": "https://www.gsuplementos.com.br/creatina-250g-creapure-growth-supplements-p985824",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/creatina-250g-creapure-growth-supplements-1.jpg",
+    "price": "R$109,90",
+    "de": "R$137,03"
+   },
+   {
+    "cat": "/creatina/",
+    "name": "Creatina Creapure® 100g",
+    "link": "https://www.gsuplementos.com.br/creatina-100g-creapure-growth-supplements-p985927",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/creatina-100g-creapure-growth-supplements.jpg",
+    "price": "R$54,90"
+   },
+   {
+    "cat": "/creatina/",
+    "name": "Creatina Monohidratada 100g",
+    "link": "https://www.gsuplementos.com.br/creatina-monohidratada-100gr-growth-supplements-p985930",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/creatina-monohidratada-100g-71-1.jpg",
+    "price": "R$23,90",
+    "de": "R$35,52"
+   },
+   {
+    "cat": "/creatina/",
+    "name": "Creatina Creapure® 120 Comprimidos",
+    "link": "https://www.gsuplementos.com.br/creatina-creapure-120comp-growth-supplements",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/creatina-creapure-120-comprimidos-growth-supplements-1.jpg",
+    "price": "R$59,90"
+   },
+   {
+    "cat": "/creatina/",
+    "name": "Creatina Monohidratada 500g",
+    "link": "https://www.gsuplementos.com.br/creatina-monohidratada-500g-pote",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/creatina-monohidratada-500g-3998.jpg",
+    "price": "R$89,90",
+    "de": "R$110,88"
+   },
+   {
+    "cat": "/creatina/",
+    "name": "Creatina Monohidratada 500g Pouch",
+    "link": "https://www.gsuplementos.com.br/creatina-monohidratada-500g-pouch-500-g-refil",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/creatina-monohidratada-500g-pouch-4508.jpg",
+    "price": "R$79,90",
+    "de": "R$104,60"
+   },
+   {
+    "cat": "/creatina/",
+    "name": "Creatina G-Gummy",
+    "link": "https://www.gsuplementos.com.br/creatina-g-gummy-melancia",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/creatina-g-gummy-melancia-4321.png",
+    "price": "R$89,90"
+   }
+  ],
+  "max": [
+   {
+    "cat": "/2/3/7/",
+    "name": "Creatina 500g",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/creatine-pote-500g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/159972/Creatine---500g---Frente.png?v=639088365861000000",
+    "price": 69.9,
+    "list": 115.6,
+    "avail": true,
+    "skus": [
+     "MonoHidratada"
+    ],
+    "cats": [
+     "/Produtos/Aminoácidos/Creatina/",
+     "/Produtos/Aminoácidos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Máxima Performance/",
+     "/Por Objetivo/Recuperação muscular/"
+    ],
+    "id": "372"
+   },
+   {
+    "cat": "/2/3/7/",
+    "name": "Creatina 300 g",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/creatina-pote-300g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/159964/Creatine---300g---Frente.png?v=639089176066830000",
+    "price": 59.9,
+    "list": 75.1,
+    "avail": true,
+    "skus": [
+     "MonoHidratada"
+    ],
+    "cats": [
+     "/Produtos/Aminoácidos/Creatina/",
+     "/Produtos/Aminoácidos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Máxima Performance/",
+     "/Por Objetivo/Recuperação muscular/"
+    ],
+    "id": "26"
+   },
+   {
+    "cat": "/2/3/7/",
+    "name": "Creatina 1kg",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/creatina-1kg/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/170432/MAX-CREATINA-1KG-FRENTE.jpg?v=639294987007170000",
+    "price": 109.9,
+    "list": 119.9,
+    "avail": true,
+    "skus": [
+     "MonoHidratada"
+    ],
+    "cats": [
+     "/Produtos/Aminoácidos/Creatina/",
+     "/Produtos/Aminoácidos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Máxima Performance/",
+     "/Por Objetivo/Recuperação muscular/"
+    ],
+    "id": "521"
+   },
+   {
+    "cat": "/2/3/7/",
+    "name": "Creatina Monohidratada 300g Sabor 7Belo — Max Titanium",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/creatina-7belo/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/162226/MAX-CREATINA-7BELO-FRENTE.jpg?v=639122901010900000",
+    "price": 66.17,
+    "list": 66.17,
+    "avail": true,
+    "skus": [
+     "7Belo"
+    ],
+    "cats": [
+     "/Produtos/Aminoácidos/Creatina/",
+     "/Produtos/Aminoácidos/",
+     "/Produtos/"
+    ],
+    "id": "469"
+   },
+   {
+    "cat": "/2/3/7/",
+    "name": "Creatina Creapure 250g",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/creatina-creapure-250g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160058/Creatina-Creapure---Frente.png?v=639089379129000000",
+    "price": 139.89,
+    "list": 147.2,
+    "avail": true,
+    "skus": [
+     "Pote 250g"
+    ],
+    "cats": [
+     "/Produtos/Aminoácidos/Creatina/",
+     "/Produtos/Aminoácidos/",
+     "/Produtos/"
+    ],
+    "id": "245"
+   },
+   {
+    "cat": "/2/3/7/",
+    "name": "Creatina 150 g",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/creatina-pote-150g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/159968/Creatine---150g---Frente.png?v=639089353489000000",
+    "price": 38.89,
+    "list": 47.52,
+    "avail": true,
+    "skus": [
+     "MonoHidratada"
+    ],
+    "cats": [
+     "/Produtos/Aminoácidos/Creatina/",
+     "/Produtos/Aminoácidos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Máxima Performance/",
+     "/Por Objetivo/Massa Muscular/"
+    ],
+    "id": "25"
+   },
+   {
+    "cat": "/2/3/7/",
+    "name": "Creatina Creapure 250g - Linha Dino",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/creatina-creapure-dino/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160062/Creatina-Creapure-Dino---Frente.png?v=639089377530000000",
+    "price": 156.73,
+    "list": 156.73,
+    "avail": true,
+    "skus": [
+     "Max Titanium"
+    ],
+    "cats": [
+     "/Produtos/Aminoácidos/Creatina/",
+     "/Produtos/Aminoácidos/",
+     "/Produtos/"
+    ],
+    "id": "244"
+   },
+   {
+    "cat": "/2/3/7/",
+    "name": "Creatina 100g",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/creatina-pote-100g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/159960/Creatine---100g---Frente.png?v=639089365487630000",
+    "price": 33.89,
+    "list": 39.9,
+    "avail": true,
+    "skus": [
+     "MonoHidratada"
+    ],
+    "cats": [
+     "/Produtos/Aminoácidos/Creatina/",
+     "/Produtos/Aminoácidos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Máxima Performance/",
+     "/Por Objetivo/Recuperação muscular/"
+    ],
+    "id": "24"
+   },
+   {
+    "cat": "/2/3/7/",
+    "name": "Creatina Creapure - Rafael Brandão",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/creatina-creapure-rafael-brandao/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160046/Creatina-Creapure-Brandao---Frente.png?v=639089380123930000",
+    "price": 156.73,
+    "list": 156.73,
+    "avail": true,
+    "skus": [
+     "250g"
+    ],
+    "cats": [
+     "/Produtos/Aminoácidos/Creatina/",
+     "/Produtos/Aminoácidos/",
+     "/Produtos/"
+    ],
+    "id": "305"
+   }
+  ]
+ },
+ "pretreino": {
+  "growth": [
+   {
+    "cat": "/pre-treino/",
+    "name": "Long Energy Limonada Silvestre 400g",
+    "link": "https://www.gsuplementos.com.br/long-energy-limonada-silvestre-400g",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/long-energy-limonada-silvestre-400g-limonada-silvestre-4759.png",
+    "price": "R$59,90"
+   },
+   {
+    "cat": "/pre-treino/",
+    "name": "Pré-treino Pace Jabuticaba com Pimenta",
+    "link": "https://www.gsuplementos.com.br/pre-treino-pace-jabuticaba-com-pimenta",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/pre-treino-pace-jabuticaba-com-pimenta-4682.png",
+    "price": "R$89,90"
+   },
+   {
+    "cat": "/pre-treino/",
+    "name": "Gcoffee Sabor Chocolate 220g Pouch",
+    "link": "https://www.gsuplementos.com.br/gcoffee-sabor-chocolate-220g-pouch-chocolate",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/gcoffee-sabor-chocolate-220g-pouch-4535.jpg",
+    "price": "R$79,90",
+    "de": "R$99,88"
+   },
+   {
+    "cat": "/pre-treino/",
+    "name": "Pré-treino Core",
+    "link": "https://www.gsuplementos.com.br/pre-treino-core-purple-berry-1",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/pre-treino-core-purple-berry-4145.jpg",
+    "price": "R$49,90"
+   },
+   {
+    "cat": "/pre-treino/",
+    "name": "Cafeína 200mg 120 Comp",
+    "link": "https://www.gsuplementos.com.br/cafeina-200mg-120comp-growth-supplements",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/cafe-na-200mg-120comp-growth-supplements-1.jpg",
+    "price": "R$49,90"
+   },
+   {
+    "cat": "/pre-treino/",
+    "name": "Cafeína 100mg 120 Comp",
+    "link": "https://www.gsuplementos.com.br/cafeina-100mg-120comp-growth-supplements",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/cafe-na-100mg-120comp-growth-supplements-1.jpg",
+    "price": "R$27,90"
+   },
+   {
+    "cat": "/pre-treino/",
+    "name": "D-Ribose 300g",
+    "link": "https://www.gsuplementos.com.br/d-ribose-300gr-growth-supplements",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/d-ribose-300gr-growth-supplements.jpg",
+    "price": "R$59,90",
+    "de": "R$72,11"
+   },
+   {
+    "cat": "/pre-treino/",
+    "name": "Pré-Treino Haze Hardcore 300g",
+    "link": "https://www.gsuplementos.com.br/pre-treino-haze-hardcore-300gr-growth-supplements",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/pr-treino-haze-hardcore-300g-growth-supplements.jpg",
+    "price": "R$89,90",
+    "de": "R$129,90"
+   },
+   {
+    "cat": "/pre-treino/",
+    "name": "Pré-treino Insanity 300g",
+    "link": "https://www.gsuplementos.com.br/pre-treino-insanity-300gr-growth-supplements",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/pr-treino-insanity-300g-growth-supplements-4.jpg",
+    "price": "R$99,90",
+    "de": "R$134,90"
+   },
+   {
+    "cat": "/pre-treino/",
+    "name": "Cafeína 200mg 60 caps",
+    "link": "https://www.gsuplementos.com.br/cafeina-60-caps-200mg-growth-supplements-thermogenico-p987894",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/cafe-na-200mg-60-caps-growth-supplements-termog-nico.jpg",
+    "price": "R$31,90"
+   }
+  ],
+  "max": [
+   {
+    "cat": "/2/15/",
+    "name": "Horus 300g",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/horus/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160157/Horus-Amora---Frente.png?v=639089409878700000",
+    "price": 88.89,
+    "list": 115.7,
+    "avail": true,
+    "skus": [
+     "Amora",
+     "Frutas Vermelhas",
+     "Maçã Verde",
+     "Citrus",
+     "Blue Ice",
+     "Limão Yuzu",
+     "Cotton Candy"
+    ],
+    "cats": [
+     "/Produtos/Pré-Treino/Hórus/",
+     "/Produtos/Pré-Treino/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Energia/"
+    ],
+    "id": "35"
+   },
+   {
+    "cat": "/2/15/",
+    "name": "Hórus 300g Sabor 7Belo Pré-Treino — Max Titanium",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/horus-7belo/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/162219/MAX-HORUS-7BELO-FRENTE.jpg?v=639122900218230000",
+    "price": 93.52,
+    "list": 93.52,
+    "avail": true,
+    "skus": [
+     "7Belo"
+    ],
+    "cats": [
+     "/Produtos/Pré-Treino/",
+     "/Produtos/"
+    ],
+    "id": "470"
+   },
+   {
+    "cat": "/2/15/",
+    "name": "Égide 300g",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/egide-300g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160101/Egide-Abacaxi-com-Manga---Frente.png?v=639089410764170000",
+    "price": 89.9,
+    "list": 136.7,
+    "avail": true,
+    "skus": [
+     "Abacaxi e Manga - DIno",
+     "Frutas Vermelhas",
+     "Abacaxi com Hortelã - Dino",
+     "Açaí com Guaraná",
+     "Limão",
+     "Frutas Silvestres"
+    ],
+    "cats": [
+     "/Produtos/Pré-Treino/Égide/",
+     "/Produtos/Pré-Treino/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Definição Muscular/"
+    ],
+    "id": "138"
+   },
+   {
+    "cat": "/2/15/",
+    "name": "Hórus Elite 390g Pré-Treino 400mg Cafeína — Max Titanium",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/horus-elite-390g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/163974/MAX-HORUS-ELITE-PINK-FRENTE.jpg?v=639129760097270000",
+    "price": 136.74,
+    "list": 136.74,
+    "avail": true,
+    "skus": [
+     "Pink Lemonade",
+     "Red Explosion",
+     "Orange Nitro"
+    ],
+    "cats": [
+     "/Produtos/Pré-Treino/",
+     "/Produtos/"
+    ],
+    "id": "461"
+   },
+   {
+    "cat": "/2/15/",
+    "name": "All Day Jorlan Vieira pote 300g",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/all-day-jorlan-vieira-pote-300-g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/159956/All-Day---Frente.png?v=639076413917830000",
+    "price": 84.09,
+    "list": 99.9,
+    "avail": true,
+    "skus": [
+     "Frutas Amarelas"
+    ],
+    "cats": [
+     "/Produtos/Pré-Treino/",
+     "/Produtos/"
+    ],
+    "id": "303"
+   },
+   {
+    "cat": "/2/15/",
+    "name": "Night Train",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/night-train-/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160050/Night-Train-Frutas-Vermelhas---Frente.png?v=639089412575930000",
+    "price": 109.89,
+    "list": 109.89,
+    "avail": true,
+    "skus": [
+     "Frutas Vermelhas 300g",
+     "Citrus 300g"
+    ],
+    "cats": [
+     "/Produtos/Pré-Treino/",
+     "/Produtos/"
+    ],
+    "id": "217"
+   },
+   {
+    "cat": "/2/15/",
+    "name": "Horus Gel",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/horus-gel-/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/157278/5.jpg?v=638336678147470000",
+    "price": 50.89,
+    "list": 59.9,
+    "avail": true,
+    "skus": [
+     "Frutas Vermelhas",
+     "Tipo Energético"
+    ],
+    "cats": [
+     "/Produtos/Pré-Treino/Hórus/",
+     "/Produtos/Pré-Treino/",
+     "/Produtos/"
+    ],
+    "id": "220"
+   },
+   {
+    "cat": "/2/15/",
+    "name": "Égide 150g",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/egide-150g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160085/Egide-Frutas-Vermelhas---Frente.png?v=639089416533200000",
+    "price": 53.9,
+    "list": 89.9,
+    "avail": true,
+    "skus": [
+     "Frutas Vermelhas",
+     "Açaí com Guaraná",
+     "Frutas Silvestres",
+     "Limão"
+    ],
+    "cats": [
+     "/Produtos/Pré-Treino/Égide/",
+     "/Produtos/Pré-Treino/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Máxima Performance/"
+    ],
+    "id": "145"
+   },
+   {
+    "cat": "/2/15/",
+    "name": "Beta-Alanina 150g",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/beta-alanina-150g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160185/Beta-Alanina---Frente.png?v=639089416033770000",
+    "price": 59.89,
+    "list": 77.9,
+    "avail": true,
+    "skus": [
+     "Performance Pura"
+    ],
+    "cats": [
+     "/Produtos/Pré-Treino/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Máxima Performance/"
+    ],
+    "id": "135"
+   },
+   {
+    "cat": "/2/15/",
+    "name": "Horus 150g",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/horus-pote--150g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160149/Horus-Frutas-Vermelhas---Frente.png?v=639089417663900000",
+    "price": 46.89,
+    "list": 79.9,
+    "avail": true,
+    "skus": [
+     "Frutas Vermelhas",
+     "Amora",
+     "Maçã Verde",
+     "Citrus",
+     "Blue Ice",
+     "Limão Yuzu",
+     "Cotton Candy"
+    ],
+    "cats": [
+     "/Produtos/Pré-Treino/Hórus/",
+     "/Produtos/Pré-Treino/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Energia/",
+     "/Por Objetivo/Definição Muscular/"
+    ],
+    "id": "103"
+   }
+  ]
+ },
+ "aminoacidos": {
+  "growth": [
+   {
+    "cat": "/aminoacidos/",
+    "name": "L-Glutamina 250g",
+    "link": "https://www.gsuplementos.com.br/l-glutamina-250g-growth-supplements-p985843",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/l-glutamina-250g-growth-supplements-1.jpg",
+    "price": "R$49,90",
+    "de": "R$66,56"
+   },
+   {
+    "cat": "/aminoacidos/",
+    "name": "Beta-Alanina Em Pó 250g",
+    "link": "https://www.gsuplementos.com.br/beta-alanina-em-po-growth-supplements",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/beta-alanina-em-p-growth-supplements.jpg",
+    "price": "R$69,90",
+    "de": "R$94,33"
+   },
+   {
+    "cat": "/aminoacidos/",
+    "name": "Power Arginine 120 Caps",
+    "link": "https://www.gsuplementos.com.br/power-arginine-120caps-growth-supplements-p985923",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/power-arginine-120-caps-growth-supplements.jpg",
+    "price": "R$24,90",
+    "de": "R$33,22"
+   },
+   {
+    "cat": "/aminoacidos/",
+    "name": "Hmb 90 Caps",
+    "link": "https://www.gsuplementos.com.br/hmb-90caps-growth-supplements",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/hmb-90-caps-growth-supplements.jpg",
+    "price": "R$45,90"
+   },
+   {
+    "cat": "/aminoacidos/",
+    "name": "BCAA 2:1:1 120CAPS",
+    "link": "https://www.gsuplementos.com.br/bcaa-120-caps-growth-supplements-p985819",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/bcaa-2-1-1-120-c-ps-growth-supplements-1.jpg",
+    "price": "R$24,90"
+   },
+   {
+    "cat": "/aminoacidos/",
+    "name": "Arginina Powder 250g",
+    "link": "https://www.gsuplementos.com.br/arginina-powder-250gr-growth-supplements",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/arginina-powder-250g-growth-supplements.jpg",
+    "price": "R$79,90"
+   },
+   {
+    "cat": "/aminoacidos/",
+    "name": "BCAA 10:1:1 200g em Pó",
+    "link": "https://www.gsuplementos.com.br/bcaa-10-1-1-200g-em-po-growth-supplements-p987922",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/bcaa-10-1-1-200g-em-p-growth-supplements.jpg",
+    "price": "R$54,90"
+   },
+   {
+    "cat": "/aminoacidos/",
+    "name": "Amino Powder 10 200g",
+    "link": "https://www.gsuplementos.com.br/amino-powder-10-200gr-growth-supplements-p988074",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/amino-powder-10-200g-growth-supplements-1.jpg",
+    "price": "R$84,90"
+   },
+   {
+    "cat": "/aminoacidos/",
+    "name": "CARNITINA 200GR",
+    "link": "https://www.gsuplementos.com.br/l-carnitina-200gr-growth-supplements-p987573",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/l-carnitina-200g-growth-supplements-1.jpg",
+    "price": "R$84,90"
+   },
+   {
+    "cat": "/aminoacidos/",
+    "name": "Taurina Powder 250g",
+    "link": "https://www.gsuplementos.com.br/taurina-powder-250gr-growth-supplements",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/taurina-powder-250g-growth-supplements.jpg",
+    "price": "R$47,90"
+   }
+  ],
+  "max": [
+   {
+    "cat": "/2/3/",
+    "name": "Glutamina L-G 300g",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/glutamina-l-g-pote-300g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/168256/L-G-Glutamina-300g.jpg?v=639191096705870000",
+    "price": 69.9,
+    "list": 99.88,
+    "avail": true,
+    "skus": [
+     "Matéria-prima de fonte vegetal"
+    ],
+    "cats": [
+     "/Produtos/Aminoácidos/Glutamina/",
+     "/Produtos/Aminoácidos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Saúde e Bem-Estar/"
+    ],
+    "id": "20"
+   },
+   {
+    "cat": "/2/3/",
+    "name": "Collagen 240g",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/collagen-240g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/156719/Colagen240g-frutasverm.png?v=638239880163200000",
+    "price": 79.89,
+    "list": 84.1,
+    "avail": true,
+    "skus": [
+     "Frutas Vermelhas",
+     "Tangerina"
+    ],
+    "cats": [
+     "/Produtos/Aminoácidos/Colágeno/",
+     "/Produtos/Aminoácidos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Emagrecimento/"
+    ],
+    "id": "134"
+   },
+   {
+    "cat": "/2/3/",
+    "name": "BCAA 4:1:1 Drink 280G",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/411-bcaa-drink-280g-max-titanium/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160189/BCAA-Drink---Limao---Frente.png?v=639227470645630000",
+    "price": 99.88,
+    "list": 99.88,
+    "avail": true,
+    "skus": [
+     "Limão",
+     "Uva",
+     "Laranja"
+    ],
+    "cats": [
+     "/Produtos/Aminoácidos/BCAA/",
+     "/Produtos/Aminoácidos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Recuperação muscular/"
+    ],
+    "id": "3"
+   },
+   {
+    "cat": "/2/3/",
+    "name": "BCAA 2400 200 Caps",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/bcaa-2400mg-pote-com-200-capsulas/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160352/BCAA-2400---Frente.png?v=639227469421800000",
+    "price": 99.88,
+    "list": 99.88,
+    "avail": true,
+    "skus": [
+     "L-Leucina, L-Isoleucina e L-Valina"
+    ],
+    "cats": [
+     "/Produtos/Aminoácidos/BCAA/",
+     "/Produtos/Aminoácidos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Máxima Performance/"
+    ],
+    "id": "17"
+   },
+   {
+    "cat": "/2/3/",
+    "name": "Bcaa 2400 100 Caps",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/bcaa-2400-pote-com-100-capsulas/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160348/BCAA-2400-100-capsulas---Frente.png?v=639227469288470000",
+    "price": 59.89,
+    "list": 74.9,
+    "avail": true,
+    "skus": [
+     "L-Leucina, L-Isoleucina e L-Valina"
+    ],
+    "cats": [
+     "/Produtos/Aminoácidos/BCAA/",
+     "/Produtos/Aminoácidos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Máxima Performance/"
+    ],
+    "id": "16"
+   },
+   {
+    "cat": "/2/3/",
+    "name": "Collagen 120g",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/collagen-120g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/169265/colagen-max-titanium-120g-frutas-vermelhas-1.jpg?v=639246649956370000",
+    "price": 49.89,
+    "list": 52.5,
+    "avail": true,
+    "skus": [
+     "Frutas Vermelhas",
+     "Tangerina"
+    ],
+    "cats": [
+     "/Produtos/Aminoácidos/Colágeno/",
+     "/Produtos/Aminoácidos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Emagrecimento/"
+    ],
+    "id": "133"
+   },
+   {
+    "cat": "/2/3/",
+    "name": "Glutamina L-G 150G",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/glutamina-l-g-pote-150g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160201/L-G---Frente.png?v=639226699470430000",
+    "price": 49.27,
+    "list": 70.41,
+    "avail": true,
+    "skus": [
+     "Matéria-prima de fonte vegetal"
+    ],
+    "cats": [
+     "/Produtos/Aminoácidos/Glutamina/",
+     "/Produtos/Aminoácidos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Saúde e Bem-Estar/"
+    ],
+    "id": "19"
+   },
+   {
+    "cat": "/2/3/",
+    "name": "Glutamina Pro Rafael Brandão",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/glutamina-pro/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160125/Gultamina-Pro-Brandao---Frente.png?v=639072055041570000",
+    "price": 135.89,
+    "list": 150.9,
+    "avail": true,
+    "skus": [
+     "300gr"
+    ],
+    "cats": [
+     "/Produtos/Aminoácidos/Glutamina/",
+     "/Produtos/Aminoácidos/",
+     "/Produtos/"
+    ],
+    "id": "304"
+   },
+   {
+    "cat": "/2/3/",
+    "name": "Bcaa 2400 60 Caps",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/bcaa-2400-pote-com-60-capsulas/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160344/BCAA-2400-60-capsulas---Frente.png?v=639227469151170000",
+    "price": 49.36,
+    "list": 49.36,
+    "avail": true,
+    "skus": [
+     "L-Leucina, L-Isoleucina, L-Valina"
+    ],
+    "cats": [
+     "/Produtos/Aminoácidos/BCAA/",
+     "/Produtos/Aminoácidos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Definição Muscular/",
+     "/Por Objetivo/Máxima Performance/",
+     "/Black Friday/"
+    ],
+    "id": "15"
+   }
+  ]
+ },
+ "termogenicos": {
+  "growth": [
+   {
+    "cat": "/termogenico/",
+    "name": "Cafeína 200mg 60 caps",
+    "link": "https://www.gsuplementos.com.br/cafeina-60-caps-200mg-growth-supplements-thermogenico-p987894",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/cafe-na-200mg-60-caps-growth-supplements-termog-nico.jpg",
+    "price": "R$31,90"
+   },
+   {
+    "cat": "/termogenico/",
+    "name": "Cafeína 200mg 120 caps",
+    "link": "https://www.gsuplementos.com.br/cafeina-200mg-120-caps-growth-supplements-thermogenico-p987897",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/cafe-na-200mg-120-caps-growth-supplements-termog-nico.png",
+    "price": "R$57,90"
+   },
+   {
+    "cat": "/termogenico/",
+    "name": "Cafeína 100mg 120 Comp",
+    "link": "https://www.gsuplementos.com.br/cafeina-100mg-120comp-growth-supplements",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/cafe-na-100mg-120comp-growth-supplements-1.jpg",
+    "price": "R$27,90"
+   },
+   {
+    "cat": "/termogenico/",
+    "name": "Cafeína 200mg 120 Comp",
+    "link": "https://www.gsuplementos.com.br/cafeina-200mg-120comp-growth-supplements",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/cafe-na-200mg-120comp-growth-supplements-1.jpg",
+    "price": "R$49,90"
+   },
+   {
+    "cat": "/termogenico/",
+    "name": "Óleo de Cártamo + Coco + Chia + Cromo + Vit E 75 caps",
+    "link": "https://www.gsuplementos.com.br/oleo-de-cartamo-coco-chia-cromo-vit-e-75-caps-growth-supplements-p987615",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/leo-de-c-rtamo-coco-chia-cromo-vit-e-75-caps-growth-supplements.jpg",
+    "price": "R$39,90"
+   },
+   {
+    "cat": "/termogenico/",
+    "name": "Gengibre Em Pó 250g",
+    "link": "https://www.gsuplementos.com.br/gengibre-em-po-250gr-growth-supplements-p987891",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/gengibre-em-po-250gr-growth-supplements-1.jpg",
+    "price": "R$24,90"
+   },
+   {
+    "cat": "/emagrecimento/",
+    "name": "FIBER PREMIUM 250GR",
+    "link": "https://www.gsuplementos.com.br/fiber",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/fiber-psyllium-fibra-de-ma-fibra-de-aveia-inulina-fos-250-gramas-1.png",
+    "price": "R$32,90"
+   },
+   {
+    "cat": "/emagrecimento/",
+    "name": "Picolinato De Cromo 120Caps",
+    "link": "https://www.gsuplementos.com.br/picolinato-de-cromo-120caps-growth-supplements-p987840",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/picolinato-de-cromo-120caps-growth-supplements-1.jpg",
+    "price": "R$19,90"
+   },
+   {
+    "cat": "/emagrecimento/",
+    "name": "100% Psyllium 320g",
+    "link": "https://www.gsuplementos.com.br/100-psyllium-320gr-growth-supplements",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/100-psyllium-320gr-growth-supplements.jpg",
+    "price": "R$72,90"
+   },
+   {
+    "cat": "/emagrecimento/",
+    "name": "PICOLINATO DE CROMO ULTRA 120COMP",
+    "link": "https://www.gsuplementos.com.br/picolinato-de-cromo-ultra-120-comp-growth-supplements",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/picolinato-de-cromo-ultra-120comp-1054.png",
+    "price": "R$39,90"
+   }
+  ],
+  "max": [
+   {
+    "cat": "/2/23/",
+    "name": "Shot Dry 150g",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/shot-dry-150g-/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160285/Shot-Dry-Frutas-Vermelhas---Frente.png?v=639090033595630000",
+    "price": 89.89,
+    "list": 99.9,
+    "avail": true,
+    "skus": [
+     "Frutas Vermelhas",
+     "Maracujá"
+    ],
+    "cats": [
+     "/Produtos/Termogênicos/Shot Dry/",
+     "/Produtos/Termogênicos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Emagrecimento/"
+    ],
+    "id": "107"
+   },
+   {
+    "cat": "/2/23/",
+    "name": "2Hot 200G",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/2hot-200g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/166889/2Hot---Limao---Frente.png?v=639168824241500000",
+    "price": 79.9,
+    "list": 99.9,
+    "avail": true,
+    "skus": [
+     "Limão",
+     "Tangerina",
+     "Uva",
+     "Guaraná com Açaí",
+     "Abacaxi com Hortelã"
+    ],
+    "cats": [
+     "/Produtos/Termogênicos/2 Hot/",
+     "/Produtos/Termogênicos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Energia/",
+     "/Por Objetivo/Emagrecimento/"
+    ],
+    "id": "9"
+   },
+   {
+    "cat": "/2/23/",
+    "name": "Fire Black 60 Caps",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/fire-black-60-caps/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160363/Fire-Black---Frente.png?v=639090035907530000",
+    "price": 43.04,
+    "list": 43.04,
+    "avail": true,
+    "skus": [
+     "Cafeína 100% pura"
+    ],
+    "cats": [
+     "/Produtos/Termogênicos/Fire Black/",
+     "/Produtos/Termogênicos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Emagrecimento/"
+    ],
+    "id": "11"
+   }
+  ]
+ },
+ "vitaminas": {
+  "growth": [
+   {
+    "cat": "/vitaminas/",
+    "name": "Coenzima Q10 + Vitamina E 60 Capsulas",
+    "link": "https://www.gsuplementos.com.br/coenzima-q10-vitamina-e-60-capsulas",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/coenzima-q10-vitamina-e-60-capsulas-4684.jpg",
+    "price": "R$69,90"
+   },
+   {
+    "cat": "/vitaminas/",
+    "name": "Óleo de Linhaça, Prímula e Borragem 60 Cápsulas",
+    "link": "https://www.gsuplementos.com.br/oleo-de-linhaca-primula-e-borragem-60-capsulas",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/oleo-de-linhaca-primula-e-borragem-60-capsulas-4677.jpg",
+    "price": "R$32,90"
+   },
+   {
+    "cat": "/vitaminas/",
+    "name": "Vitamina E 60 Capsulas",
+    "link": "https://www.gsuplementos.com.br/vitamina-e-60-capsulas",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/vitamina-e-60-capsulas-4676.png",
+    "price": "R$22,90"
+   },
+   {
+    "cat": "/vitaminas/",
+    "name": "Biotina 60 cápsulas",
+    "link": "https://www.gsuplementos.com.br/biotina-60-capsulas",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/biotina-60-capsulas-4675-1.png",
+    "price": "R$22,90"
+   },
+   {
+    "cat": "/vitaminas/",
+    "name": "Própolis Verde 60 Cápsulas",
+    "link": "https://www.gsuplementos.com.br/propolis-verde-60-capsulas",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/propolis-verde-60-capsulas-4549-1.png",
+    "price": "R$29,90"
+   },
+   {
+    "cat": "/vitaminas/",
+    "name": "Magnésio 5X 60 caps",
+    "link": "https://www.gsuplementos.com.br/magnesio-5x-60-caps",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/magnesio-5x-60-caps-4378.png",
+    "price": "R$69,90"
+   },
+   {
+    "cat": "/vitaminas/",
+    "name": "Ômega 3 Daily 900",
+    "link": "https://www.gsuplementos.com.br/omega-3-daily-900",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/omega-3-daily-900-4234.png",
+    "price": "R$37,90"
+   },
+   {
+    "cat": "/vitaminas/",
+    "name": "Ômega 3 DHA 1400",
+    "link": "https://www.gsuplementos.com.br/omega-3-dha-1400",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/omega-3-dha-1400-4233.png",
+    "price": "R$74,90"
+   },
+   {
+    "cat": "/vitaminas/",
+    "name": "Ômega 3 Tasty Cherry",
+    "link": "https://www.gsuplementos.com.br/omega-3-tasty-cherry",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/omega-3-tast-cherry-4232.jpg",
+    "price": "R$24,90"
+   },
+   {
+    "cat": "/vitaminas/",
+    "name": "Ômega 3 Ultra 1100",
+    "link": "https://www.gsuplementos.com.br/omega-3-ultra-1100",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/omega-3-ultra-1100-4230.png",
+    "price": "R$69,90"
+   }
+  ],
+  "max": [
+   {
+    "cat": "/2/24/",
+    "name": "Omega 3 90 Caps",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/omega-3-90-capsulas/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/167238/OMEGA-3-90-CAPS-FRENTE.jpg?v=639180155866370000",
+    "price": 62.89,
+    "list": 62.89,
+    "avail": true,
+    "skus": [
+     "Livre de metais pesados"
+    ],
+    "cats": [
+     "/Produtos/Vitaminas e minerais/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Saúde e Bem-Estar/"
+    ],
+    "id": "28"
+   },
+   {
+    "cat": "/2/24/",
+    "name": "Vitamina C – 500 mg (60 cápsulas) – Max Titanium",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/vitaminac-500mg/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160379/Vitamina-C---Frente.png?v=639219788306330000",
+    "price": 26.2,
+    "list": 45.9,
+    "avail": true,
+    "skus": [
+     "Antioxidante e fonte de vitaminas C"
+    ],
+    "cats": [
+     "/Produtos/Vitaminas e minerais/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Saúde e Bem-Estar/"
+    ],
+    "id": "65"
+   },
+   {
+    "cat": "/2/24/",
+    "name": "ZMA (90 cápsulas) – Max Titanium",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/zma-90-caps-max-titanium/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160334/ZMA---Frente.png?v=639180150749700000",
+    "price": 45.15,
+    "list": 50.92,
+    "avail": true,
+    "skus": [
+     "7,0mg Zinco por porção"
+    ],
+    "cats": [
+     "/Produtos/Vitaminas e minerais/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Saúde e Bem-Estar/"
+    ],
+    "id": "22"
+   }
+  ]
+ },
+ "massa": {
+  "growth": [
+   {
+    "cat": "/hipercalorico/",
+    "name": "Hiper Mass 1Kg Sabor Chocolate",
+    "link": "https://www.gsuplementos.com.br/hiper-mass-1kg-sabor-chocolate-chocolate",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/hiper-mass-1kg-sabor-chocolate-growth-supplements.jpg",
+    "price": "R$54,90"
+   },
+   {
+    "cat": "/hipercalorico/",
+    "name": "(TOP) Hipercalórico Sabor Chocolate 1Kg",
+    "link": "https://www.gsuplementos.com.br/top-hipercalorico-sabor-chocolate-1kg-chocolate",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/top-hipercal-rico-sabor-chocolate-1kg-growth-supplements-1.jpg",
+    "price": "R$76,90"
+   },
+   {
+    "cat": "/hipercalorico/",
+    "name": "Big Mass Hipercalórico 3kg",
+    "link": "https://www.gsuplementos.com.br/big-mass-hipercalorico-3kgs-growth-supplements",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/big-mass-pro-hipercal-rico-3kg-growth-supplements-1.jpg",
+    "price": "R$168,90"
+   },
+   {
+    "cat": "/carboidratos/",
+    "name": "Maltodextrina 1Kg",
+    "link": "https://www.gsuplementos.com.br/maltodextrina-1kg-growth-supplements-p985957",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/maltodextrina-1kg-growth-supplements-11.jpg",
+    "price": "R$19,90",
+    "de": "R$25,44"
+   },
+   {
+    "cat": "/carboidratos/",
+    "name": "Dextrose 1Kg",
+    "link": "https://www.gsuplementos.com.br/dextrose-1kg-growth-supplements-p985976",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/dextrose-1kg-growth-supplements.jpg",
+    "price": "R$25,90"
+   },
+   {
+    "cat": "/carboidratos/",
+    "name": "Palatinose 1Kg",
+    "link": "https://www.gsuplementos.com.br/palatinose-1kg-growth-supplements-p987909",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/palatinose-1kg-growth-supplements-1.jpg",
+    "price": "R$74,90",
+    "de": "R$88,77"
+   },
+   {
+    "cat": "/carboidratos/",
+    "name": "Waxy Maize 1Kg",
+    "link": "https://www.gsuplementos.com.br/waxy-maize-1kg-growth-supplements-p985972",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/waxy-maize-1kg-growth-supplements-10.jpg",
+    "price": "R$24,90"
+   },
+   {
+    "cat": "/carboidratos/",
+    "name": "100% Batata Doce em Pó Sabor Natural 1kg",
+    "link": "https://www.gsuplementos.com.br/100-batata-doce-em-po-sabor-natural-1kg-growth-supplements-p985925",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/100-batata-doce-em-p-sabor-natural-1kg-growth-supplements-1.png",
+    "price": "R$44,90"
+   },
+   {
+    "cat": "/carboidratos/",
+    "name": "D-Ribose 300g",
+    "link": "https://www.gsuplementos.com.br/d-ribose-300gr-growth-supplements",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/d-ribose-300gr-growth-supplements.jpg",
+    "price": "R$59,90",
+    "de": "R$72,11"
+   },
+   {
+    "cat": "/carboidratos/",
+    "name": "Carb Gel Growth 300g Açaí com Guaraná",
+    "link": "https://www.gsuplementos.com.br/carb-gel-growth-300g-acai-com-guarana-sem-cafeina",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/display-carb-gel-growth-sabor-acai-com-guarana-300g-acai-com-guarana-4692.png",
+    "price": "R$49,90"
+   }
+  ],
+  "max": [
+   {
+    "cat": "/2/13/",
+    "name": "Mass Titanium Refil 3Kg",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/masstitanium3kg/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/168626/MASS-TITANIUM-3kg-BAUNILHA-FRENTE.jpg?v=639264492550770000",
+    "price": 118.89,
+    "list": 149.9,
+    "avail": true,
+    "skus": [
+     "Baunilha",
+     "Chocolate",
+     "Morango",
+     "Leite Condensado",
+     "Vitamina de Frutas"
+    ],
+    "cats": [
+     "/Produtos/Hipercalóricos/Refil 3kg/",
+     "/Produtos/Hipercalóricos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Ganho de peso/",
+     "/Por Objetivo/Massa Muscular/"
+    ],
+    "id": "36"
+   },
+   {
+    "cat": "/2/13/",
+    "name": "Mass Titanium 17500 ZERO LACTOSE 2,4kg",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/mass-titanium-17500-zero-lactose/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160407/Mass-Titanium-Chocolate---Frente.png?v=639090030416500000",
+    "price": 129.89,
+    "list": 159.9,
+    "avail": true,
+    "skus": [
+     "Chocolate",
+     "Morango"
+    ],
+    "cats": [
+     "/Produtos/Hipercalóricos/Refil 2,4kg zero Lactose/",
+     "/Produtos/Hipercalóricos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Ganho de peso/",
+     "/Por Objetivo/Massa Muscular/"
+    ],
+    "id": "99"
+   },
+   {
+    "cat": "/2/13/",
+    "name": "Super Gainers Refil 3Kg",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/supergainers3kg/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/170425/Super Gainers 3kg - Chocolate - Frente.jpg?v=639289042356200000",
+    "price": 139.89,
+    "list": 139.89,
+    "avail": true,
+    "skus": [
+     "Chocolate",
+     "Morango",
+     "Vitamina de Frutas",
+     "Baunilha"
+    ],
+    "cats": [
+     "/Produtos/Hipercalóricos/Refil 3kg/",
+     "/Produtos/Hipercalóricos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Ganho de peso/",
+     "/Por Objetivo/Massa Muscular/"
+    ],
+    "id": "38"
+   },
+   {
+    "cat": "/2/13/",
+    "name": "Mass Titanium Refil 1,4Kg",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/mass-titanium-17500-14kg/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/166288/MASS-TITANIUM-BAUNILHA-FRENTE.jpg?v=639219887906370000",
+    "price": 69.89,
+    "list": 99.9,
+    "avail": true,
+    "skus": [
+     "Baunilha",
+     "Chocolate",
+     "Morango",
+     "Leite Condensado",
+     "Vitamina de Frutas"
+    ],
+    "cats": [
+     "/Produtos/Hipercalóricos/Refil 1,4kg/",
+     "/Produtos/Hipercalóricos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Ganho de peso/",
+     "/Por Objetivo/Massa Muscular/"
+    ],
+    "id": "37"
+   },
+   {
+    "cat": "/2/13/",
+    "name": "Super Whey 900G",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/super-whey-900g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/160276/Super-Whey-Baunilha---Frente.png?v=639090031489830000",
+    "price": 94.62,
+    "list": 94.62,
+    "avail": true,
+    "skus": [
+     "Baunilha",
+     "Chocolate",
+     "Morango"
+    ],
+    "cats": [
+     "/Produtos/Hipercalóricos/",
+     "/Produtos/"
+    ],
+    "id": "70"
+   },
+   {
+    "cat": "/2/12/",
+    "name": "Palatinose  300G",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/palatinose-300g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/169221/palatinose-max-titanium-300g-natural-1.jpg?v=639246640064300000",
+    "price": 76.73,
+    "list": 76.73,
+    "avail": true,
+    "skus": [
+     "Natural",
+     "Uva"
+    ],
+    "cats": [
+     "/Produtos/Carboidratos/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Energia/"
+    ],
+    "id": "60"
+   }
+  ]
+ },
+ "snacks": {
+  "growth": [
+   {
+    "cat": "/snacks/barra-de-proteina/",
+    "name": "Creamy Protein Bar 45g Sabor Chocolate com Avelã - Display c/ 12 uni",
+    "link": "https://www.gsuplementos.com.br/creamy-protein-bar-45g-chocolate-com-avela-display-c-12-un",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/creamy-protein-bar-45g-sabor-chocolate-com-avela-display-c-12-uni-chocolate-com-avela-4801.png",
+    "price": "R$84,90"
+   },
+   {
+    "cat": "/snacks/barra-de-proteina/",
+    "name": "Nutty Crunch Bar 40g Sabor Maça com Caramelo - Display c/ 12 uni",
+    "link": "https://www.gsuplementos.com.br/nutty-crunch-bar-40g-sabor-maca-com-caramelo-display-c-12-uni-maca-com-caramelo",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/nutty-crunch-bar-40g-sabor-maca-com-caramelo-display-c-12-uni-maca-com-caramelo-4796-1.png",
+    "price": "R$79,90"
+   },
+   {
+    "cat": "/snacks/barra-de-proteina/",
+    "name": "Vegan Protein Bar 40g Sabor Cacau Black - Display c/ 12 uni",
+    "link": "https://www.gsuplementos.com.br/vegan-protein-bar-40g-sabor-cacau-black-display-c-12-uni-cacau-black",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/vegan-protein-bar-40g-sabor-cacau-black-display-c-12-uni-cacau-black-4767.png",
+    "price": "R$84,90"
+   },
+   {
+    "cat": "/snacks/barra-de-proteina/",
+    "name": "Barra Wafer Protein - Display C/ 06 Un",
+    "link": "https://www.gsuplementos.com.br/barra-wafer-protein-growth-supplements",
+    "img": "https://www.gsuplementos.com.br/upload/produto/imagem/barra-wafer-protein-display-c-06-un-growth-supplements.jpg",
+    "price": "R$59,90"
+   }
+  ],
+  "max": [
+   {
+    "cat": "/2/10/",
+    "name": "Power Protein Bar 41G",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/power-protein-bar-41g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/169433/Power-Protein-Bar-41g-Dark-Truffle.jpg?v=639264780961570000",
+    "price": 95.67,
+    "list": 95.67,
+    "avail": true,
+    "skus": [
+     "Dark chocolate truffle 12 Unidades",
+     "Milk caramel 12 Unidades",
+     "Morango Sensation 12 Unidades",
+     "Peanut Butter 12 Unidades",
+     "Napolitano 12 Unidades",
+     "Chocolate com Coco 12 Unidades",
+     "Cookies 12 Unidades",
+     "Bombom de avelã com coco 12 Unidades",
+     "Frutas Vermelhas 12 Unidades"
+    ],
+    "cats": [
+     "/Produtos/Barras Proteícas/Barras/Barra de 41g/",
+     "/Produtos/Barras Proteícas/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Máxima Performance/",
+     "/Por Objetivo/Ganho de peso/",
+     "/Por Objetivo/Massa Muscular/"
+    ],
+    "id": "32"
+   },
+   {
+    "cat": "/2/10/",
+    "name": "Power Protein Bar 90G",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/power-protein-bar-08-un/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/169307/POWER-DARK-90G-DISPLAY.png?v=639264764044070000",
+    "price": 123.89,
+    "list": 123.89,
+    "avail": true,
+    "skus": [
+     "Dark chocolate truffle 8 unidades",
+     "Milk caramel 8 unidades",
+     "Peanut butter 8 unidades",
+     "Morango Sensation 8 unidades",
+     "Napolitano 8 unidades",
+     "Chocolate com Coco 8 unidades",
+     "Cookies 8 unidades",
+     "Bombom de avelã com coco 8 unidades",
+     "Frutas Vermelhas 8 unidades"
+    ],
+    "cats": [
+     "/Produtos/Barras Proteícas/Barras/Barra de 90g/",
+     "/Produtos/Barras Proteícas/",
+     "/Produtos/",
+     "/Por Objetivo/",
+     "/Por Objetivo/Máxima Performance/",
+     "/Por Objetivo/Ganho de peso/",
+     "/Por Objetivo/Recuperação muscular/"
+    ],
+    "id": "30"
+   },
+   {
+    "cat": "/2/10/",
+    "name": "Power Protein Crisp",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/power-protein-crispy/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/169496/POWER-PROTEIN-CRISP-41G---COOKIES.jpg?v=639264789436200000",
+    "price": 91.46,
+    "list": 91.46,
+    "avail": true,
+    "skus": [
+     "Cookies - 12 unidades de 44g",
+     "Dark Chocolate Truffle - 12 unidades de 44g",
+     "Frutas Vermelhas - 12 unidades de 44g",
+     "Milk Caramel - 12 unidades de 44g",
+     "Cappuccino - 12 unidades de 44g",
+     "Banoffee - 12 unidades de 44g"
+    ],
+    "cats": [
+     "/Produtos/Barras Proteícas/",
+     "/Produtos/"
+    ],
+    "id": "243"
+   },
+   {
+    "cat": "/2/10/",
+    "name": "Top Whey Bar 41g",
+    "brand": "Max Titanium",
+    "link": "https://lojamaxtitanium.vtexcommercestable.com.br/top-whey-bar-41g/p",
+    "img": "https://lojamaxtitanium.vteximg.com.br/arquivos/ids/169538/Display-TopWheyBar-Amendoimfotosite.png?v=639264793879330000",
+    "price": 83.04,
+    "list": 83.04,
+    "avail": true,
+    "skus": [
+     "Amendoim 12 Unidades",
+     "Brigadeiro 12 Unidades",
+     "Chocolate com Avelã 12 Unidades",
+     "Doce de Leite 12 Unidades"
+    ],
+    "cats": [
+     "/Produtos/Barras Proteícas/Barras/Barra de 41g/",
+     "/Produtos/Barras Proteícas/",
+     "/Produtos/",
+     "/whey protein/"
+    ],
+    "id": "146"
+   }
+  ]
+ }
+}

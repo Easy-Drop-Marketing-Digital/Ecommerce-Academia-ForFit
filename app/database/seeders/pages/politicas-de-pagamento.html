@@ -1,0 +1,71 @@
+<h2>1. Apresentação</h2>
+<p>A [[store.name]] oferece um processo de pagamento seguro, simples e transparente. Todas as transações são processadas por um processador de pagamentos especializado no mercado brasileiro, com proteção dos dados financeiros da cliente.</p>
+
+<h2>2. Checkout</h2>
+<p>A finalização da compra acontece no próprio site da [[store.name]], em ambiente com:</p>
+<ul>
+    <li>Conexão segura com certificado SSL (HTTPS) em todas as páginas;</li>
+    <li>Interface otimizada para celular e computador;</li>
+    <li>Processo simplificado, em uma única página.</li>
+</ul>
+
+<h2>3. Processador de pagamentos</h2>
+<p>O processamento financeiro é realizado pela <strong>Nixfy</strong>, responsável por:</p>
+<ul>
+    <li>Processar e validar os dados de pagamento com segurança;</li>
+    <li>Comunicar-se com as bandeiras de cartão e instituições financeiras;</li>
+    <li>Gerar e confirmar os pagamentos via PIX.</li>
+</ul>
+<p>A [[store.name]] <strong>não armazena</strong> o número completo nem o código de segurança (CVV) do seu cartão.</p>
+
+<h2>4. Formas de pagamento aceitas</h2>
+<p><strong>PIX</strong></p>
+<ul>
+    <li>Disponível 24 horas por dia, 7 dias por semana;</li>
+    <li>QR Code e código “copia e cola” gerados na hora, no checkout;</li>
+    <li>Confirmação automática — o pedido segue para processamento assim que o pagamento é identificado;</li>
+    <li>O código PIX é válido por [[pix.validity]]. Depois disso, o pedido é cancelado automaticamente e nada é cobrado.</li>
+</ul>
+<p><strong>Cartão de crédito</strong></p>
+<ul>
+    <li>Principais bandeiras: Visa, Mastercard, Elo, American Express e Hipercard;</li>
+    <li>Parcelamento em até [[nixfy.max_installments]]x, com as condições exibidas no checkout.</li>
+</ul>
+
+<h2>5. Confirmação do pedido</h2>
+<p>O pedido é confirmado após a aprovação do pagamento, e você recebe um e-mail com a confirmação.</p>
+<ul>
+    <li><strong>PIX:</strong> confirmação imediata após o pagamento;</li>
+    <li><strong>Cartão de crédito:</strong> confirmação em poucos minutos, podendo levar até 1 dia útil em análise.</li>
+</ul>
+
+<h2>6. Análise antifraude</h2>
+<p>Pagamentos com cartão passam por análise antifraude. Transações consideradas de risco podem ser recusadas, ter documentação adicional solicitada ou ser canceladas com reembolso integral. Essa medida protege você e a loja contra o uso indevido de cartões.</p>
+
+<h2>7. Parcelamento</h2>
+<p>O checkout mostra de forma clara o número de parcelas, o valor de cada uma, eventuais encargos e o valor total da compra parcelada.</p>
+
+<h2>8. Cancelamento e estorno</h2>
+<p>Pedidos ainda não despachados podem ser cancelados entrando em contato com a nossa equipe. O reembolso é feito no mesmo meio de pagamento:</p>
+<ul>
+    <li><strong>Cartão de crédito:</strong> estorno solicitado em até 5 dias úteis, podendo aparecer em até 2 faturas, conforme a operadora;</li>
+    <li><strong>PIX:</strong> devolução em até 5 dias úteis.</li>
+</ul>
+
+<h2>9. Segurança das transações</h2>
+<ul>
+    <li><strong>HTTPS:</strong> todas as páginas usam conexão criptografada;</li>
+    <li><strong>Criptografia SSL:</strong> protege os dados entre o seu navegador e nossos servidores;</li>
+    <li><strong>Dados de cartão:</strong> enviados diretamente ao processador no momento da compra, sem armazenamento do número completo ou do CVV.</li>
+</ul>
+
+<h2>10. Divergências e contestações</h2>
+<p>Se houver qualquer divergência na cobrança, fale conosco antes de contestar junto à operadora do cartão — assim resolvemos mais rápido. Envie o número do pedido e o comprovante para [[store.email]]<x-if key="store.whatsapp"> ou WhatsApp [[store.whatsapp]]</x-if>. Respondemos em até 2 dias úteis.</p>
+
+<h2>11. Contato</h2>
+<ul>
+    <li>E-mail: [[store.email]]</li>
+    <x-if key="store.whatsapp"><li>WhatsApp: [[store.whatsapp]]</li></x-if>
+    <li>Atendimento: [[store.hours]]</li>
+    <li>Tempo de resposta: [[store.response_time]]</li>
+</ul>

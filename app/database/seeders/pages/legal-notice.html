@@ -1,0 +1,44 @@
+<h2>1. Identificação da empresa</h2>
+<p>
+    Nome fantasia: [[store.name]]<br>
+    <x-if key="store.legal_name">Razão social: [[store.legal_name]]<br></x-if>
+    <x-if key="store.cnpj">CNPJ: [[store.cnpj]]<br></x-if>
+    <x-if key="store.address">Endereço administrativo: [[store.address]]<br></x-if>
+    E-mail: [[store.email]]<x-if key="store.whatsapp"> | WhatsApp: [[store.whatsapp]]</x-if>
+</p>
+
+<h2>2. Atividade</h2>
+<p>A [[store.name]] é uma loja virtual brasileira de moda feminina que comercializa artigos de vestuário, calçados e acessórios, com envio a partir de fornecedores parceiros no Brasil e no exterior. A [[store.name]] é a única responsável pelo atendimento, pelo processamento financeiro, pela garantia e pelo pós-venda das compras realizadas em seu site.</p>
+
+<h2>3. Legislação aplicável</h2>
+<ul>
+    <li>Lei nº 8.078/1990 – Código de Defesa do Consumidor (CDC);</li>
+    <li>Lei nº 13.709/2018 – Lei Geral de Proteção de Dados (LGPD);</li>
+    <li>Lei nº 12.965/2014 – Marco Civil da Internet;</li>
+    <li>Decreto nº 7.962/2013 – Regulamentação do comércio eletrônico;</li>
+    <li>Lei nº 10.406/2002 – Código Civil.</li>
+</ul>
+
+<h2>4. Propriedade intelectual</h2>
+<p>Todo o conteúdo publicado neste site — textos, imagens, fotografias, logotipos, identidade visual e layout — pertence à [[store.name]] ou é utilizado mediante licença. A reprodução sem autorização prévia e por escrito é proibida, nos termos da Lei nº 9.610/1998 (Lei de Direitos Autorais).</p>
+
+<h2>5. Responsabilidade sobre o conteúdo</h2>
+<p>Empregamos nossos melhores esforços para manter as informações corretas e atualizadas, mas não nos responsabilizamos por:</p>
+<ul>
+    <li>Erros tipográficos involuntários nas descrições;</li>
+    <li>Variações de cor causadas pela configuração do dispositivo;</li>
+    <li>Indisponibilidade temporária do site por manutenção ou motivos técnicos;</li>
+    <li>Conteúdo de sites externos acessados por links em nossas páginas.</li>
+</ul>
+
+<h2>6. Links externos</h2>
+<p>O site pode conter links para terceiros, como processadores de pagamento, transportadoras e redes sociais, fornecidos apenas por conveniência. Não controlamos o conteúdo nem as práticas de privacidade desses sites.</p>
+
+<h2>7. Limitação de responsabilidade</h2>
+<p>Na máxima extensão permitida pela lei, a [[store.name]] não responde por danos indiretos decorrentes do uso ou da impossibilidade de uso do site, sem prejuízo dos direitos garantidos pelo Código de Defesa do Consumidor, que permanecem integralmente preservados.</p>
+
+<h2>8. Modificações</h2>
+<p>Podemos alterar informações, produtos ou funcionalidades do site a qualquer momento, respeitados os pedidos já confirmados. Este aviso pode ser atualizado periodicamente.</p>
+
+<h2>9. Foro</h2>
+<x-if key="store.city_forum"><p>Fica eleito o foro da comarca de [[store.city_forum]], sem prejuízo do direito da consumidora de acionar o foro do seu domicílio e os órgãos de defesa do consumidor.</p></x-if>
